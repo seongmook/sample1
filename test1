@@ -1,8 +1,0 @@
-[Constructor]
-[Constructor(DOMString model)]
-interface ArduinoBoard{
-
-
-  attribute DOMString modelName;
-  void write(DOMString msg);
-}
